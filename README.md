@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning everything 🤣
 
+- 📫 How to reach me: sumeyyebeyzayildiz@gmail.com
+
 - 🥅 2023 Goals: Learn more about Full-stack Web Development
 
 - ⚡ Fun fact: I love to draw and travel
 
-<img align="left" alt="GitHub" width="50px" src="./ponyo-run.gif" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="300px" src="./ponyo-run.gif" style="padding-right:10px;" />
 
+<br />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbeyzayildiz&langs_count=4&theme=transparent)
