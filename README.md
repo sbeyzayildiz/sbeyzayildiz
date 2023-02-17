@@ -1,20 +1,6 @@
-### Hi there, I'm Beyza 👋
+# Hi there, I'm Beyza 👋
 
-<!--
-**sbeyzayildiz/sbeyzayildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## I'm a Wife, Developer and Life-Long Learner!
+## ✨ I'm a Wife, Developer and Life-Long Learner! ✨
 
 - 🔭 I’m currently working on my career
 
@@ -25,10 +11,6 @@ Here are some ideas to get you started:
 - 🥅 2023 Goals: Learn more about Full-stack Web Development
 
 - ⚡ Fun fact: I love to draw and travel
-
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbeyzayildiz&langs_count=4&theme=transparent)
 &nbsp;&nbsp;
