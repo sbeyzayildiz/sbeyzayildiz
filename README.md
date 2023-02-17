@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbeyzayildiz&langs_count=4&theme=transparent)
 &nbsp;&nbsp;
