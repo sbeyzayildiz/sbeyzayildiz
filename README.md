@@ -26,15 +26,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I love to draw and travel
 
-<img align="left" alt="GitHub" width="300px" src="./ponyo-run.gif" style="padding-right:10px;" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbeyzayildiz&langs_count=4&theme=transparent)
 &nbsp;&nbsp;
@@ -52,8 +46,11 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
+<br />
+<br />
 
 
+<img align="left" alt="GitHub" width="300px" src="./ponyo-run.gif" style="padding-right:10px;" />
 
 
 
