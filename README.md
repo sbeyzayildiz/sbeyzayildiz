@@ -8,9 +8,9 @@
 
 - 📫 How to reach me: sumeyyebeyzayildiz@gmail.com
 
-- 🥅 2023 Goals: Learn more about Full-stack Web Development
+- 🥅 2025 Goals: Learn more about Go Development
 
-- ⚡ Fun fact: I love to draw and travel
+- ⚡ Fun fact: I love to codding and travel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbeyzayildiz&langs_count=4&theme=transparent)
 &nbsp;&nbsp;
