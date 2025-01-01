@@ -1,6 +1,6 @@
 # Hi there, I'm Beyza 👋
 
-## ✨ I'm a Wife, Developer and Life-Long Learner! ✨
+## ✨ I'm a LP Fan, Developer and Life-Long Learner! ✨
 
 - 🔭 I’m currently working on my career
 
