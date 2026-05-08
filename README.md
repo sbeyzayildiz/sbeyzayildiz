@@ -28,11 +28,3 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
-<br />
-<br />
-
-
-
-<img align="left" alt="GitHub" width="300px" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=3840&q=75" style="padding-right:10px;" />
-
-
