@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: sumeyyebeyzayildiz@gmail.com
 
-- 🥅 2025 Goals: Learn more about Go Development
+- 🥅 2026 Goals: Learn more about System Design
 
 - ⚡ Fun fact: I love to codding and travel
 
